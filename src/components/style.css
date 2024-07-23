@@ -1,0 +1,25 @@
+.event-description table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .event-description th, .event-description td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .event-description th {
+    background-color: #f4f4f4;
+  }
+  
+  .event-description img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .event-description iframe {
+    width: 100%;
+    height: auto;
+  }
+  
